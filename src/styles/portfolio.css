@@ -1,0 +1,25 @@
+/* src/styles/portfolio.css */
+
+.timeline {
+  @apply relative border-l border-gray-300 ml-4;
+}
+
+.timeline-item {
+  @apply mb-10 ml-6;
+}
+
+.timeline-dot {
+  @apply absolute w-4 h-4 bg-blue-600 rounded-full -left-2 top-2;
+}
+
+.timeline-title {
+  @apply text-lg font-semibold text-gray-800;
+}
+
+.timeline-subtitle {
+  @apply text-sm text-gray-500;
+}
+
+.timeline-desc {
+  @apply text-gray-700 mt-2;
+}
