@@ -16,8 +16,8 @@ export default function Header() {
       {/* Right side - Buttons */}
       <div className="flex flex-wrap gap-2">
         <a
-          href="/resume.pdf"
-          download
+            href="/Pooja-Shrirang-Gadhave-Resume.pdf" 
+  download="Pooja-Shrirang-Gadhave-Resume.pdf"
           className="px-5 py-2 bg-indigo-600 text-white font-medium rounded-lg shadow hover:bg-indigo-700 transition"
         >
           Download Resume
