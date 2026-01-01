@@ -7,7 +7,7 @@ export default function About() {
         About Me
       </h2>
       <p className="text-gray-700 leading-relaxed">
-Enthusiastic MCA student (2025 pass-out) with a strong foundation in Java, MySQL, and web development. Skilled in building responsive front-ends using React and developing backend APIs with Node.js and PHP. Passionate about problem-solving, software development, and continuously learning new technologies. Open to opportunities in software development, system engineering, and related IT roles where I can contribute and grow in a collaborative environment.
+MCA graduate (2025 pass-out) with a strong foundation in Java, MySQL, and web development, and hands-on experience in building responsive front-end applications using React and backend solutions using PHP and Node.js. Experienced in developing, testing, and deploying real-world applications. Passionate about problem-solving, software engineering, and continuously learning new technologies. Actively seeking opportunities in software development and system engineering where I can contribute to impactful projects and grow in a collaborative environment.
       </p>
 
       <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
