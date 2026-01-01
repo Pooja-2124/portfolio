@@ -1,6 +1,13 @@
 import React from 'react'
 
 const projects = [
+{
+  title: 'Hotel Booking Management System',
+  desc: 'Developed a full-stack hotel booking web application with user authentication, room listings, booking management, and an admin panel to manage hotels, bookings, and availability.',
+  tech: 'PHP, MySQL, HTML, CSS, Bootstrap',
+  live: 'https://vacation-rental.free.nf/',
+  code: ''
+},
   {
     title: 'Mentor-Mentee Management System',
     desc: 'Tracks mentee progress across SDLC stages; includes stage tracking, progress updates, and mentor notices.',
