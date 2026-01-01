@@ -6,7 +6,7 @@ const projects = [
   desc: 'Developed a full-stack hotel booking web application with user authentication, room listings, booking management, and an admin panel to manage hotels, bookings, and availability.',
   tech: 'PHP, MySQL, HTML, CSS, Bootstrap',
   live: 'https://vacation-rental.free.nf/',
-  code: ''
+  code: 'https://github.com/Pooja-2124/hotel-booking-system'
 },
   {
     title: 'Mentor-Mentee Management System',
